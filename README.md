@@ -1,3 +1,3 @@
-# portfolio
+welcome to my portfolio 
  https://ljbryson.github.io/portfolio/
-This is my portfolio. click above to view. 
+This is my portfolio. click to view. 
